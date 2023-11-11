@@ -15,3 +15,8 @@ APViT-main for emotion detection
   pages={3601--3610},
   year={2021}
 }
+
+
+// Documents
+Data: http://www.whdeng.cn/raf/model1.html
+Open Source: https://github.com/youqingxiaozhua/APViT
