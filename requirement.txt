@@ -1,0 +1,3 @@
+conda install mmcv-full
+conda install numpy
+conda install Pylance

@@ -1,0 +1,17 @@
+APViT-main for emotion detection
+
+@article{xue2022vision,
+  title={Vision Transformer with Attentive Pooling for Robust Facial Expression Recognition},
+  author={Xue, Fanglei and Wang, Qiangchang and Tan, Zichang and Ma, Zhongsong and Guo, Guodong},
+  journal={IEEE Transactions on Affective Computing},
+  year={2022},
+  publisher={IEEE}
+}
+
+@inproceedings{xue2021transfer,
+  title={Transfer: Learning Relation-aware Facial Expression Representations with Transformers},
+  author={Xue, Fanglei and Wang, Qiangchang and Guo, Guodong},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3601--3610},
+  year={2021}
+}
